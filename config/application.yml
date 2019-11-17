@@ -1,0 +1,3 @@
+DATABASE_URL: postgres://decidim_app:Password1@localhost/decidim_prod
+
+SECRET_KEY_BASE: c5d5f9e913d4b63a381e982075bb7d61993aa0656aaf1d00ba75938bb5c3f77e95ab8e6c30fe79a84d7a729f72919f7e826b44bed381f4fd462ba12e0922f5ab
